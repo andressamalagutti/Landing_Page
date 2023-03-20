@@ -1,5 +1,3 @@
-# 
-Landing Page de Oferta Direta
 
 ### O que é uma landing Page?
 ---
@@ -8,12 +6,24 @@ São páginas com foco principal na capturar os visitantes, ou seja, é uma ferr
 ### O que é uma landing Page e Oferta Direta?
 
 ---
-LP de Oferta Direta feita  oferecer o seu principal serviço/produto ou promoções.
+LP de Oferta Direta tem como  obejtivo  oferecer o seu principal serviço/produto ou promoções.
 
 
-### Tecnologias
+### Tecnologias usadas.
 * HTML
 * CSS
+
+# Proximos passos
+* Configurar dominio [resgistro.br](https://registro.br/)
+* Melhora desempenho na pesquisa Google [Google Search](https://search.google.com/search-console/about/)
+
+### Verificar performance do Site
+*[PageSpeed Insights](https://pagespeed.web.dev](https://tinypng.com/)
+
+### Melhorar Performance
+* [Otimizar tamanho de imagens](https://tinypng.com/)
+#### Sempre que possível, chamar o JS no final do html
+####Exceção: Códigos de trackeamento  de analytics ou marketing
 
 
 ### Autor
