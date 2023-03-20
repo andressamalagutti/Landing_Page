@@ -23,4 +23,3 @@ LP de Oferta Direta feita  oferecer o seu principal serviço/produto ou promoç�
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/andressamalagutti)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](https://www.linkedin.com/in/andressamalagutti/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:andressamalagutt@gmail.com)
-https://www.youtube.com/watch?v=IBVuwU5z7jw
