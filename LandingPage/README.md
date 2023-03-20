@@ -21,9 +21,9 @@ LP de Oferta Direta tem como  obejtivo  oferecer o seu principal serviço/produt
 *[PageSpeed Insights](https://pagespeed.web.dev](https://tinypng.com/)
 
 ### Melhorar Performance
-* [Otimizar tamanho de imagens](https://tinypng.com/)
-#### Sempre que possível, chamar o JS no final do html
-####Exceção: Códigos de trackeamento  de analytics ou marketing
+[Otimizar tamanho de imagens](https://tinypng.com/)
+[Sempre que possível, chamar o JS no final do html]
+[Exceção: Códigos de trackeamento  de analytics ou marketing]
 
 
 ### Autor
