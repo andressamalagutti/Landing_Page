@@ -3,7 +3,7 @@
 ---
 São páginas com foco principal na capturar os visitantes, ou seja, é uma ferramenta de marketing para atrair as pessoas certas para seu produto. Essas páginas possuem poucos elementos comparados com páginas tradicionais, evitando distrações e garantindo o objetivo.
 
-### O que é uma landing Page e Oferta Direta?
+### O que é uma landing Page de Oferta Direta?
 
 ---
 LP de Oferta Direta tem como  obejtivo  oferecer o seu principal serviço/produto ou promoções.
