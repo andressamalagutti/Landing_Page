@@ -18,7 +18,7 @@ LP de Oferta Direta tem como  obejtivo  oferecer o seu principal serviço/produt
 * Melhorar desempenho na pesquisa Google [Google Search](https://search.google.com/search-console/about/)
 
 ### Verificar performance do Site
-[PageSpeed Insights](https://pagespeed.web.dev](https://tinypng.com/)
+Verificador de performance[PageSpeed Insights](https://pagespeed.web.dev](https://tinypng.com/)
 
 ### Melhorar Performance
 [Otimizar tamanho de imagens](https://tinypng.com/)
